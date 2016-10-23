@@ -1,0 +1,14 @@
+﻿"1","Plastic Never Was So Sexy Frame","frame"       ,"This affordable plastic frame will suit your everyday needs while setting the lastest fashion trends"                                     ,50
+"2","Metal Rockstar Frame"           ,"frame"       ,"Our Metal Rockstar frame will hold strong through your daily grind and have you feeling like a rockstar"                                  ,80
+"3","Gimme Half Frame"               ,"frame"       ,"This UBER sleek design is half the Metal Rockstar Frame with a floating lens and will take your fashion sense on its wildest ride yet"  ,100
+"4","[Monocle] Frame"                ,"frame"       ,"Purchase with a [Monocle] lens and represent 19th century style . Chain included"                                                          ,80
+"5","Classic Plastic Shamstic Lens"  ,"lens"        ,"Nothing fancy shamncy: our basic plastic lens for everyday needs"                                                                                             ,30
+"6","Anti-Scratch Coating"           ,"lens"        ,"Add this top of the line anti scratch coating to any lens for maximum portection"                                                        ,25
+"7","Bye Bye Blurry Bifocal Lens"    ,"lens"        ,"Perfect for those unfortnuate souls who have to now pay a premium to see clear. We are sorry for your loss"                              ,50
+"8","Classic Plastic Shamstic Lens"  ,"lens"        ,"Climate Change is amoungst us. Protect your corea with still with uv Lenses on any lens"                                                 ,15
+"9","Anti-Glare Coating"             ,"lens"        ,"Protect your lens with our Anti-Glare Coating and never be a victim to flash again"                                                                                                                         ,25
+"10","[Monocle] Lens"                ,"lens"        ,"Purchase with a [Monocle] frame and represent 19th century style"                                                                          ,80
+"11","Contact Lens Pair"             ,"lens"        ,"one box will provide 10 pairs of contact lenses"                                                                                         ,60
+"12","Sun Glasses Lens               ,"lens"        ,"shade never looked so cool. pair with any frame"                                                                                         ,50
+"13","Not Your Average Cleaner"      ,"accessory"   , "Clean your glasses with a Zero Carbon Footprint with our Eco Friendly Cleaner"                                                          ,15
+"14","Not Your Average Case"         ,"accessory"   ,"Protect your [Monocle] Frames with style with our top of the line case "                                                                   ,10

@@ -1,0 +1,6 @@
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\MonocleFile\MonocleFile\bin\Debug\MonocleFile.exe.config
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\MonocleFile\MonocleFile\bin\Debug\MonocleFile.exe
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\MonocleFile\MonocleFile\bin\Debug\MonocleFile.pdb
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\MonocleFile\MonocleFile\obj\Debug\MonocleFile.csprojResolveAssemblyReference.cache
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\MonocleFile\MonocleFile\obj\Debug\MonocleFile.exe
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\MonocleFile\MonocleFile\obj\Debug\MonocleFile.pdb
